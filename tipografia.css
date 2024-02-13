@@ -1,0 +1,27 @@
+/* Estilo para os títulos */
+.titulo {
+  color: #020087;
+}
+
+/* Estilo para os subtítulos */
+.subtitulo {
+  color: #4F0497;
+}
+
+/* Estilo para o texto normal */
+.texto-padrao {
+  color: #000000;
+  line-height: 1.5;
+}
+
+/* Estilo para os links */
+.link {
+  color: #000000;
+}
+
+/* Estilo para os links quando hover */
+.link:hover {
+  color: #ffffff;
+  background-color: #4F0497;
+  border-radius: 8px;
+}
